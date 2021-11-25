@@ -1,10 +1,10 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import Array208 from "./components/208-array/index";
+import Eventos209 from "./components/209-eventos";
 
 ReactDOM.render(
   <React.StrictMode>
-    <Array208 />
+    <Eventos209 />
   </React.StrictMode>,
   document.getElementById("root")
 );
