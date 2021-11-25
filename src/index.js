@@ -1,10 +1,10 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import Eventos209 from "./components/209-eventos";
+import Components210 from "./components/210-componentes";
 
 ReactDOM.render(
   <React.StrictMode>
-    <Eventos209 />
+    <Components210 />
   </React.StrictMode>,
   document.getElementById("root")
 );
